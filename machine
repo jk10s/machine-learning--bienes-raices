@@ -1,1 +1,29 @@
 machine learning
+
+inteligencia artificial = ciencia qu epermite a  las computadoras imitar la inteligencia humana, como la toma de decisiones, el procesaminto de textos y larcepcion visual
+la IA es un caompo mas amplio( es dicirel gran paradigma que contine varios campos como el aprendizaje de la maquina, la robotica y la vision por ordenador
+
+DEEP LEARNING  el aprendizaje profundo se basa en el entrenaminto de redes neuronales artificiales profundas (RNA) utilizando grnades conjunto de datos como imagenes
+las RNA son modelos de procesaminto de informacion inspirados en el cerebro humano
+el cerebro humano esta formado por millones de nueronas que se comunican entre si mediante señales electricas y quimicas que permiten a los humanos ver, sentir y tomar desiciones.
+
+DIRERENCIA ENTRE ML Y DL
+lo que la sdiferencia el aprendiae profundo de la stecnicas de aprendizaje de las maquinas es su capacidad para extraer caracteristicas automaticamente
+el proceso de aprendixaje de la mauina 
+1 selecionar el modelo a entrenar 
+2 realiar manualmente  la extracion de caraceristicas
+proceso ade aprendizaje profundo 
+1 selelcionar la aruitectuta de la red 
+2 las caracteristicas se extraen autometicamnte alimentando los datos de entrenamiento ( como imagenes) jusnto con la clase de objetivo(etiqueta)
+
+tensorflow 
+con keras se crean los modelos 
+Secuential() // que vamos acreal el modelo de manera secuecial
+keras unciona por encima de tensorflow
+layers //los modelos tienen capas llamadas layers
+dense // una de las capas as simples son las dense
+unit// las unidades de neuronas se asignan con unit=Ndeneuronas
+
+las neuronas tienen perdidas por lao general se usa los optimizaadores(optimizer)
+MSE Y RMSE
+ error cuadratico medio la diferencias de valores  
