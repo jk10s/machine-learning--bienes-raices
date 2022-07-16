@@ -27,3 +27,32 @@ unit// las unidades de neuronas se asignan con unit=Ndeneuronas
 las neuronas tienen perdidas por lao general se usa los optimizaadores(optimizer)
 MSE Y RMSE
  error cuadratico medio la diferencias de valores  
+epochs significa que nuestra red ha pasado por todo nuestro entrenamiento
+
+odeo de regrecion es una fucnion que nos permite explicar la relacion entre una o dos aribles nos permite predecir un valor
+ 
+ 
+ MINERIA DE DATOS
+ se asocia a herramientas e inteligencia empresarial
+ CIENCIA DE DATOS 
+ incluye cato o precemiento para  sacarle datos con valor analisis predictivos  la ciencai incluye la transformacion e integracion de datos 
+ ANALISIS D DATOS
+ proviene de estadistica analistica de datos tengo losdatos y tengo que analisalos
+ ANALISIS PREDICTIVO 
+ es un tipo d ansnlisis de datos    son tecnicas predictivas que se realizan a partir de una entrada de dato s     hay otros analisiscomo descriptivos
+ BIG DATA
+ grandes volumnee de datos
+ EXTRACON DE CONOCIMIENTOS
+ transformacion de atoss a conocimiento
+ 
+ mineria de datos
+ necesitan de sitemas internos (sistemas de inforomacion) ficheros textos etc
+ necestia sistemas externos (tendecias del sector,eventos,meterologia, calendarios) funtes informes bases de tos que se compran, las que se extraen de intenet
+ factores externos comolas tendecias dels sector. 
+ alclemcenes de datos 
+ 
+ ALOP vs mineria de datos
+ D2K sacar conocmientos de datos
+ redes neuronales extraen modelos no compresibles 
+ los arboles de decision son modelos comprensibles
+ 
